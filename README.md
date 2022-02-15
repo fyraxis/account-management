@@ -1,5 +1,5 @@
 ### The purpose 
-- To provide the account management api implementation according to the specs which define the operations that it is to support.
+- To provide the account management api implementation according to the specs [Account Management Specs](api-specification.yml) which define the operations that it is to support.
 Starting point - a boilerplate project with a '/ping' endpoint to check the api is up and running and some integrated tests for the final functionality.
 
 ### How to run the application
